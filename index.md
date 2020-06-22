@@ -8,3 +8,6 @@ He is accompanied by his friends.
 * brave 
 * intelligent 
 * doing all for his friends
+
+> Hello!
+> Sam
