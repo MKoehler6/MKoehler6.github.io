@@ -5,4 +5,6 @@ He is accompanied by his friends.
 
 ## Traits of Frodo
 
-brave, intelligent, doing all for his friends
+* brave 
+* intelligent 
+* doing all for his friends
