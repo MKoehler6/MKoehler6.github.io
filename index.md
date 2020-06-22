@@ -9,4 +9,5 @@ He is accompanied by his friends.
 * intelligent 
 * doing all for his friends
 
-\'Hello!\'
+> Hello!
+> Sam
