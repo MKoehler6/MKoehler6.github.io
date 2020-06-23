@@ -11,3 +11,5 @@ He is accompanied by his friends.
 
 > Hello!
 > Sam
+
+<img src="https://cdn.nameberry.com/blog/wp-content/uploads/2017/09/frodo.jpg"/>
